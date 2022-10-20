@@ -1,0 +1,5 @@
+LISTA DE REQUERIMIENTOS
+llamda con el cliente 19/10/22
+-corregir desborde de la pagina de inicio
+-cambiar fondo al sitio a un color oscuro
+-aumentar el tamaño de la fuente
